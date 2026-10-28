@@ -1,0 +1,15 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>my.project</groupId>
+	<artifactId>rehearsal</artifactId>
+	<version>demo</version>
+	
+	<properties>
+		<maven.compiler.release>25</maven.compiler.release>
+	</properties>
+	
+	<build>
+		<sourceDirectory>code</sourceDirectory>
+		<testSourceDirectory>test</testSourceDirectory>
+	</build>
+</project>
